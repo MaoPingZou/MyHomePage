@@ -85,7 +85,7 @@ const formatHtml = (content, icon) => {
         .replace(/<\/ul>/g, '');
 };
 
-formattedHtml.value = formatHtml(html,'bi-emoji-expressionless-fill');
+formattedHtml.value = formatHtml(html,'bi-emoji-smile-fill');
 
 onMounted(async () => {
     await getFiles();
