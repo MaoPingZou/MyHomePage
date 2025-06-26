@@ -1,9 +1,9 @@
 ---
 
-date: '2025-06-26'
+date: '2025-06-25'
 Title: '🛠️ 工具集'
 icon: 'bi-bar-chart'
 
 ---
 
-IDEA CE、VSCode、DBeaver、Vim、Chrome、ChatGPT
+趁手工具：MacOS、ChatGPT、IDEA CE、VSCode、DBeaver、Vim、Google Chrome

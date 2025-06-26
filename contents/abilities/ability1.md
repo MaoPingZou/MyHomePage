@@ -6,4 +6,4 @@ icon: 'bi-columns-gap'
 
 ---
 
-Java、Spring Boot、MySQL、MyBatis、Docker、SQL
+企业开发常用的框架：Java、Spring Boot、MySQL、MyBatis、Docker、SQL、Redis等等

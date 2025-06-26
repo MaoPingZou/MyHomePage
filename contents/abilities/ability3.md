@@ -1,8 +1,9 @@
 ---
 
-date: '2025-06-26'
-Title: '技能三'
-icon: 'bi-shop'
+date: '2025-06-23'
+Title: '💼 项目经验'
+icon: 'bi-people'
+
 ---
 
-XXXX
+有过海外信贷金融、企业ERP、物流系统、开放平台的开发与维护项目经验
