@@ -1,12 +1,16 @@
 <!doctype html>
 <html lang="zh-CN">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="MaoPing的主页" />
   <title>MaoPing的主页</title>
-  <link rel="icon" href="logo.png">
-  <link rel="icon" type="image/svg+xml" href="favicon.ico">
+  <!-- <link rel="icon" href="logo.png">
+  <link rel="icon" type="image/svg+xml" href="favicon.ico"> -->
+  <!-- 从 .env 环境变量中取值 -->
+  <link rel="icon" href="%VITE_JSDELIVR_CDN_URL%/public/logo.png">
+  <link rel="icon" type="image/svg+xml" href="%VITE_JSDELIVR_CDN_URL%/public/favicon.ico">
 
   <style>
     .jn-spinner {

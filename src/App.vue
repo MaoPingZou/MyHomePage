@@ -5,12 +5,8 @@
       data-bs-smooth-scroll="true" class="rounded-2" tabindex="0">
       <Introduce />
       <div :class="[isMobile ? 'jn-items-full-width':'jn-items']">
-        <Conversations />
         <Abilities />
         <Jobs />
-        <Products />
-        <Works />
-        <Pricing />
       </div>
     </div>
     <Footer />

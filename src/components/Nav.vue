@@ -30,8 +30,9 @@
 <script setup>
 import { ref, onMounted } from 'vue';
 import { attributes } from '/contents/nav.md';
-import logo from '/contents/logo.png';
+// import logo from '/contents/logo.png';
 
+const logo = 'https://cdn.jsdelivr.net/gh/MaoPingZou/MyHomePage@main/contents/logo.png';
 const age = ref(0);
 
 const calAge = () => {
