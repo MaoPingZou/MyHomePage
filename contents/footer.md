@@ -2,7 +2,7 @@
 Title: MaoPing
 Subtitle: 就是这样一名程序员🧑‍💻。
 ContactTitle: 怎么联系？
-ContactSubtitle: 你可以通过多种联系方式找到他。
+ContactSubtitle: 你可以通过多种联系方式找到他。如果微信图标点不开，可以直接搜索 Andy_hopeful 加他好友
 Social: [
     {
         name: "GitHub",
@@ -27,7 +27,7 @@ Social: [
     {
         name: "WeChat",
         icon: "wechat",
-        url: "https://raw.githubusercontent.com/MaoPingZou/blog/refs/heads/master/assets/img/wechat.jpg"
+        url: "https://cdn.jsdelivr.net/gh/MaoPingZou/MyHomePage@main/public/wechat.png"
     }
 ]
 
