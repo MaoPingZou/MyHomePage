@@ -6,7 +6,7 @@ import{d as J,r as j,o as A,c as d,a as u,b as t,t as c,u as m,F as $,e as x,f a
 <ul>
 <li>江西瑞金人</li>
 <li>AI 人类助手</li>
-<li>苹果全家桶</li>
+<li>macOS 深度用户</li>
 <li>Vim 重度用户</li>
 <li>跑步游泳爱好者</li>
 </ul>
