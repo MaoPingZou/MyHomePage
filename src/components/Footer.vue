@@ -7,7 +7,8 @@
             </div>
             <div class="col-md-6 col-lg-6 col-12">
                 <h3>{{attributes.ContactTitle}}</h3>
-                <p class="opacity-75">{{attributes.ContactSubtitle}}</p>
+                <!-- <p class="opacity-75">{{attributes.ContactSubtitle}}</p> -->
+                <p class="opacity-75" v-html="attributes.ContactSubtitle"></p>
                 <div class="flex">
                     <a v-for=" (item, index) in attributes.Social" :key="index"
                         :class="[isMobile ? 'jn-footer-social-mobile me-3' : 'jn-footer-social-desktop me-4']" :href="item.url"

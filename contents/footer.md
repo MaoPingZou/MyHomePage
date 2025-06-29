@@ -2,7 +2,7 @@
 Title: MaoPing
 Subtitle: 就是这样一名程序员🧑‍💻。
 ContactTitle: 怎么联系？
-ContactSubtitle: 你可以通过多种联系方式找到他。如果微信图标点不开，可以直接搜索 Andy_hopeful 加他好友
+ContactSubtitle: 你可以通过多种联系方式找到他。<br>他成为程序员的故事在 <a href="https://blog.maoping.me/aboutme/" target="_blank">这里</a>
 Social: [
     {
         name: "GitHub",
